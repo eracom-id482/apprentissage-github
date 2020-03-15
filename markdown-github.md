@@ -1,4 +1,5 @@
-MARKDOWN GITHUB
+## MARKDOWN GITHUB
+
 Le markdown est une façon d’écrire du texte sur le web
 
 À utiliser sur GITHUB
